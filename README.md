@@ -82,5 +82,5 @@
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=umairtariq&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
