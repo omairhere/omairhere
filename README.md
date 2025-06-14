@@ -5,13 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/umair-tariq-381a69174/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/omair_here" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord:510076283280031753&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://discord.com/users/510076283280031753" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  
 </div>
 
 ###
