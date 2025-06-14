@@ -35,7 +35,7 @@
   🎓 I have a Bachelor's in Software Engineering and I'm currently pursuing a Master's in Computer Science from the University of Bedfordshire.<br><br>
   💼 I'm a professional web developer with over 6 years of experience in full-stack development.<br>
   🚀 I build scalable, modern apps using technologies like React, Next.js, Node, and Python.<br>
-  🧠 I'm highly interested in <strong>Artificial Intelligence (AI)</strong> and <strong>Machine Learning (ML)</strong>, and I'm currently enhancing my skills in these areas alongside cloud and DevOps.<br>
+  🧠 I'm highly interested in <strong>Artificial Intelligence (AI)</strong> and <strong>Machine Learning (ML)</strong>.<br>
   📚 I enjoy automating workflows and crafting web solutions that solve real-world problems.<br>
   ⚡ I also explore mobile app development and scalable system design.
 </p>
